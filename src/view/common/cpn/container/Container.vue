@@ -51,16 +51,13 @@ defineProps({
   flex-wrap: wrap;
 
   .item {
-    transition: all .3s;
     padding: 15px;
     color: #555;
     font-size: 15px;
 
     &:hover {
-      transform: scale(1.1);
-      
       a {
-        color: #000;
+        color: #f472b6;
       }
     }
   }
