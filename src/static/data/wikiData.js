@@ -13,6 +13,12 @@ export const wikiData = [
     ]
   },
   {
+    title: '通用',
+    list: [
+      {name: 'Linux命令搜索', url: 'https://wangchujiang.com/linux-command/list.html'},
+    ]
+  },
+  {
     title: '工具',
     list: [
       {name: 'PNG转ICO-在线转换图标文件', url: 'https://www.aconvert.com/cn/icon/png-to-ico/'},

@@ -18,7 +18,7 @@ export const bookmarkData = [
   {
     title: '影音阅读',
     list: [
-      {name: 'FreeMP3', url: 'https://tools.liumingye.cn/music/#/'},
+      {name: 'FreeMP3', url: 'https://tools.liumingye.cn/music/'},
       {name: 'Bilibili', url: 'https://www.bilibili.com/'},
       {name: 'YouTube', url: 'https://www.youtube.com/'},
       {name: 'ACFun', url: 'https://www.acfun.cn/'},
