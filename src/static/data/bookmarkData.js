@@ -42,7 +42,7 @@ export const bookmarkData = [
   {
     title: '音视频解析',
     list: [
-      {name: 'HHTJim’s部落格 Web App教育', url: 'https://link.hhtjim.com/'},
+      {name: 'HHTJim’s部落格 Web App', url: 'https://link.hhtjim.com/'},
       {name: '够低调解析', url: 'http://www.gddyu.com/'},
       {name: '夜幕解析', url: 'https://yemu.xyz/'},
       {name: 'VIP视频在线解析', url: 'https://v.ctrlqq.com/'},
