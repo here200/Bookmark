@@ -26,6 +26,7 @@ export const wikiData = [
       {name: 'Server酱·Turbo版', url: 'https://sct.ftqq.com/'},
       {name: 'APIFox', url: 'https://www.apifox.cn/web/main'},
       {name: '嘉立创', url: 'https://www.jlc.com/'},
+      {name: 'Test your IPv6', url: 'http://test-ipv6.com/'},
     ]
   },
   {
