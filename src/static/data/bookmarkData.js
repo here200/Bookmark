@@ -51,6 +51,12 @@ export const bookmarkData = [
     ]
   },
   {
+    title: '资源',
+    list: [
+      {name: '影猫の仓库', url: 'https://ymck.me/'},
+    ]
+  },
+  {
     title: '友链',
     list: [
       {name: 'Here200\'s Blog', url: 'https://here200.github.io/'},
